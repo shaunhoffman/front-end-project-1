@@ -134,6 +134,20 @@ ul.skills {
   background: #0399ff;
 }
 
+.list-paragraph{
+  font-style:italic;
+  margin-top: .5em;
+  margin-bottom: 1em;
+}
+
+dl{
+  padding-top: 20px;
+}
+
+dt{
+  font-weight: 700;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
